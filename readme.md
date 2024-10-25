@@ -35,7 +35,7 @@ Thanks to the open-source community for inspiring and supporting this project. L
 
 <br>
 
-**Link** : https://leetcode.com/u/thapasijan171
+**Link** : https://leetcode.com/u/sijanthapa009
 
 <br>
 
